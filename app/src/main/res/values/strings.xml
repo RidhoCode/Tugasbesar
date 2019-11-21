@@ -9,6 +9,6 @@
 
     <string name="menu_home">Catatan Keuangan</string>
     <string name="menu_gallery">Tagihan Hutang</string>
-    <string name="menu_slideshow">About</string>
+    <string name="menu_slideshow">Tentang</string>
 
 </resources>
